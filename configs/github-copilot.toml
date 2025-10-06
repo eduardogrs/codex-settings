@@ -1,7 +1,7 @@
 # Codex CLI Configuration
 # This configuration uses LiteLLM as the model provider gateway
 # See: https://docs.litellm.ai/docs/simple_proxy
-model = "gpt-5-codex"
+model = "gpt-5"
 model_provider = "github"
 model_reasoning_summary = "detailed"
 show_raw_agent_reasoning = true

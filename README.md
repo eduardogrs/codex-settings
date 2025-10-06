@@ -73,7 +73,7 @@ The default `config.toml` uses LiteLLM as a gateway. To use it:
 ### Main Configuration
 
 - [config.toml](config.toml): Default configuration using LiteLLM gateway
-  - Model: `gpt-5-codex`
+  - Model: `gpt-5`
   - Approval policy: `on-request`
   - Reasoning: High effort with detailed summaries
 
@@ -168,7 +168,7 @@ Available commands:
 
 ### Reasoning Settings
 
-For reasoning-capable models (o3, gpt-5-codex):
+For reasoning-capable models (o3, gpt-5):
 
 - **Effort**: `minimal`, `low`, `medium`, `high`
 - **Summary**: `auto`, `concise`, `detailed`, `none`

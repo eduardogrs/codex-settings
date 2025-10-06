@@ -16,3 +16,8 @@
 # Environment-specific
 .env
 .env.local
+
+# Codex files
+history.jsonl
+sessions
+version.json
