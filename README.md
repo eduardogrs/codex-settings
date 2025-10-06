@@ -2,6 +2,8 @@
 
 A curated collection of configurations and custom prompts for [OpenAI Codex CLI](https://github.com/openai/codex), designed to enhance your development workflow with various model providers and reusable prompt templates.
 
+> For Claude Code settings, agents and custom commands, please refer [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings).
+
 ## Overview
 
 This repository provides:
